@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "239590987904",
+    "project_id": "portfolio-d6d35",
+    "storage_bucket": "portfolio-d6d35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239590987904:android:c20e51b0311363bbbc2e65",
+        "android_client_info": {
+          "package_name": "com.example.aqib_port"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu6z7HF8JLk2GJvfCtlIYJXxX3PZghQCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
